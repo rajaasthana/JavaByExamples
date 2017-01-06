@@ -19,7 +19,7 @@ package com.chap_2.datatypes;
  */
 public class DataTypes {
 	public static void main(String[] args) {
-		byte b = 5;
+		byte b = 5; //byte-datatype, b-variable, = assignment operator, 5-value to be stored on the variable b of type byte, ;-terminates the statement
 		short s = 15;
 		int i = 123;
 		long l = 123456;
