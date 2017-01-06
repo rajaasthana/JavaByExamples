@@ -1,4 +1,4 @@
-package com.chap_2.datatypes;
+package corejava.chap_2.datatypes;
 
 /**
  * Datatypes - predefined keywords used to allocate memory for the program data

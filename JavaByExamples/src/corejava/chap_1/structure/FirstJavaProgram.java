@@ -1,4 +1,4 @@
-package com.chap_1.structure;
+package corejava.chap_1.structure;
 
 
 /**
