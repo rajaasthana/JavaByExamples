@@ -1,9 +1,9 @@
 package corejava.chap_3.operators;
 
 /**
- * Ternary Operator (?:) - replacement for simple if-else
- * <ul>
+ * Ternary Operator (?:) - replacement for simple if-else.
  * Usage
+ * <ul>
  * <li>condtion? trueValue : falseValue</li>
  * </ul>
  * 

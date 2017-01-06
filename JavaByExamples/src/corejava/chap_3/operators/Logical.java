@@ -3,9 +3,10 @@ package corejava.chap_3.operators;
 /**
  * Logical operators are
  * <ul>
- * 	<li>AND (&&)</li>
+ * 	<li>AND (&amp;&amp;)</li>
  * 	<li>OR (||)</li>
  * 	<li>NOT (!)</li>
+ * </ul>
  * @author Raja Asthana
  * @since 6-Jan-2017
  */

@@ -3,10 +3,10 @@ package corejava.chap_3.operators;
 /**
  * Relational Operators are
  * <ul>
- * <li>LESS THAN (<)</li>
- * <li>GREATER THAN (>)</li>
- * <li>GREATER THAN OR EQUALS TO (>=)</li>
- * <li>LESS THAN OR EQUALS TO (<=)</li>
+ * <li>LESS THAN (&lt;)</li>
+ * <li>GREATER THAN (&gt;)</li>
+ * <li>GREATER THAN OR EQUALS TO (&gt;=)</li>
+ * <li>LESS THAN OR EQUALS TO (&lt;=)</li>
  * <li>EQUAL TO (==)</li>
  * <li>NOT EQUAL TO (!=)</li>
  * </ul>
